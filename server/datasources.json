@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongodb": {
+    "port": "37763",
+    "database": "ionic4-conference-app",
+    "password": "ionic4",
+    "name": "mongodb",
+    "hostname": "ds137763.mlab.com",
+    "user": "admin",
+    "connector": "mongodb"
+  }
+}
